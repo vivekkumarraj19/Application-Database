@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Kaushalya Devi",
+      "username": "Kaushalyadevi1234",
+      "email": "Kaushalyadevi1234@gmail.com",
+      "phone": "9955677776",
+      "id": 5
+    },
+    {
+      "name": "vivek kumar",
+      "username": "vivekkumar9852",
+      "email": "vivekkumarraj19@gmail.com",
+      "phone": "7667276988",
+      "id": 6
+    },
+    {
+      "name": "raj kumar",
+      "username": "rajkumar1189",
+      "email": "rajkumar1189@gmail.com",
+      "phone": "6296754258",
+      "id": 7
+    },
+    {
+      "name": "rani kumari",
+      "username": "raikumari2008",
+      "email": "ranikumari2008@gmail.com",
+      "phone": "6275985632",
+      "id": 8
+    }
+  ]
+}
